@@ -10,19 +10,28 @@ I'm also a Full Stack Developer with a passion for problem-solving and innovativ
 
 Feel free to connect for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<p align="center"><img align="center" height="250" width="375" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /></p>
 
-### Talking about Personal Stuff:
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, MongoDB, etc
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc
-- 📫 &nbsp; Reach out at: weiouyang9134@gmail.com.
+  <div style="flex: 1; padding: 10px;">
+    <h3>Talking about Personal Stuff:</h3>
+    <ul>
+      <li>🛠 &nbsp; I’m currently working with JS, TS, AWS, MongoDB, etc</li>
+      <li>🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc</li>
+      <li>📫 &nbsp; Reach out at: weiouyang9134@gmail.com.</li>
+    </ul>
+  </div>
 
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+  <div style="flex: 1; padding: 10px;">
+    <h3>My Absolute Favorites:</h3>
+    <ul>
+      <li>💻 &nbsp; I love exploring new technologies and building cool stuff.</li>
+      <li>📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.</li>
+      <li>🍕 &nbsp; Meetups & Tech Events & Hackathons.</li>
+    </ul>
+  </div>
+</div>
 
 ### Languages and Tools:
 
